@@ -26,13 +26,13 @@ Projeto em Java desenvolvido para praticar Programação Orientada a Objetos (PO
 | **Regras** | [![](https://img.shields.io/badge/Regras_de_Negócio-000000?style=flat-square)](#regras-de-negócio-validações) |
 | **Guia** | [![](https://img.shields.io/badge/Como_Rodar-darkorchid?style=flat-square)](#como-rodar-o-projeto) |
 ---
-<br>
 
 ## Descrição
 
 Este sistema permite gerenciar as principais entidades do universo K-pop: **Membros**, **Managers** e **Bandas**. O foco principal é a aplicação de conceitos como encapsulamento, listas de objetos e validações de regras de negócio.
 
 O projeto tem caráter educacional, mas segue princípios que podem ser reaproveitados em sistemas maiores.
+
 <br>
 
 ## 🌸 Estrutura das Classes
