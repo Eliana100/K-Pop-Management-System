@@ -17,7 +17,6 @@
 Projeto em Java desenvolvido para praticar Programação Orientada a Objetos (POO), com foco em modelagem de domínio, encapsulamento e validação de regras de negócio, simulando o gerenciamento de agências e bandas de K-pop.
 
 
-
 ## 💌 Índice
 
 | Seção | Atalho |
@@ -34,7 +33,6 @@ Projeto em Java desenvolvido para praticar Programação Orientada a Objetos (PO
 Este sistema permite gerenciar as principais entidades do universo K-pop: **Membros**, **Managers** e **Bandas**. O foco principal é a aplicação de conceitos como encapsulamento, listas de objetos e validações de regras de negócio.
 
 O projeto tem caráter educacional, mas segue princípios que podem ser reaproveitados em sistemas maiores.
-<br>
 <br>
 
 ## 🌸 Estrutura das Classes
