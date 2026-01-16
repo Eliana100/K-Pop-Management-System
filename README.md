@@ -9,7 +9,7 @@
 
   [![Java](https://img.shields.io/badge/Java-C71585?style=for-the-badge&logo=openjdk&logoColor=white)]()
   [![Paradigma](https://img.shields.io/badge/Paradigma-POO-darkorchid?style=for-the-badge)]()
-  [![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-000000?style=for-the-badge)]()
+  [![Status](https://img.shields.io/badge/Status-Desenvolvendo-000000?style=for-the-badge)]()
 </div>
 
 ---
