@@ -86,6 +86,20 @@ java Main
 
 ```
 ---
+<br>
+
+## 🍒 Roadmap de Evolução
+
+
+
+Este projeto está em constante desenvolvimento. As próximas etapas de aprendizado incluem:
+- [ ] **Fase 1**: Implementar Herança (Classe `Pessoa`).
+- [ ] **Fase 2**: Tratamento de exceções customizadas para validações.
+- [ ] **Fase 3**: Persistência de dados em arquivos CSV ou Banco de Dados.
+- [ ] **Fase 4**: Interface de usuário via Terminal (Menu Interativo).
+
+
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/87095cc4-f419-4916-acba-610de3fecc28" alt="Blackpink Banner" width="100%" style="border-radius: 10px;">
